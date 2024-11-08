@@ -1,0 +1,14 @@
+.DS_Store
+node_modules
+.turbo
+*.log
+dist
+dist-ssr
+*.local
+.env
+.cache
+.sst
+server/dist
+public/dist
+bundle-stats.html
+tsconfig.tsbuildinfo
